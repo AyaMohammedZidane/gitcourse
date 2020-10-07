@@ -1,3 +1,3 @@
 # gitcourse
 Aya
-## projectsNote
+## projectsNotes
